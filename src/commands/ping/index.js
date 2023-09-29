@@ -10,7 +10,7 @@ export const command = new SlashCommandBuilder().setName('ping').setDescription(
 export const action = async(ctx) => {
 
 
-
+//test1
   // const uva = {
   //   name: "johc",
   //   fuck: "fuckyou",
